@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a56f2f4-50fa-4bde-a2b2-a3de46b15cc3" name="Default Changelist" comment="" />
+    <list default="true" id="3a56f2f4-50fa-4bde-a2b2-a3de46b15cc3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/foodie-dev-common/target/" />
@@ -37,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/ShopcatController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-557">
+            <state relative-caret-position="207">
               <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
             </state>
           </provider>
@@ -46,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/impl/OrderServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1531">
+            <state relative-caret-position="2990">
               <caret line="152" column="5" selection-start-line="152" selection-start-column="5" selection-end-line="152" selection-end-column="5" />
             </state>
           </provider>
@@ -73,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/center/CenterUserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
+            <state relative-caret-position="2392">
               <caret line="134" column="11" selection-start-line="134" selection-start-column="11" selection-end-line="134" selection-end-column="11" />
             </state>
           </provider>
@@ -82,8 +84,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/PassportController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="170" column="19" lean-forward="true" selection-start-line="170" selection-start-column="19" selection-end-line="170" selection-end-column="19" />
+            <state relative-caret-position="437">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -235,6 +237,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,56 +245,10 @@
               <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="imooc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="imooc" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -317,7 +274,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -470,7 +427,8 @@
       <workItem from="1587277184041" duration="23000" />
       <workItem from="1588746646190" duration="6727000" />
       <workItem from="1588903055544" duration="7842000" />
-      <workItem from="1589073448376" duration="5313000" />
+      <workItem from="1589073448376" duration="5851000" />
+      <workItem from="1589080197475" duration="263000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交项目">
       <created>1581068891321</created>
@@ -500,11 +458,25 @@
       <option name="project" value="LOCAL" />
       <updated>1589079624350</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="整合redis">
+      <created>1589079689195</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589079689195</updated>
+    </task>
+    <task id="LOCAL-00006" summary="整合redis">
+      <created>1589079839350</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589079839350</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242460000" />
+    <option name="totallyTimeSpent" value="243261000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -524,14 +496,14 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.18443497" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.18656716" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.29067245" />
       <window_info anchor="bottom" id="Database Changes" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="5" weight="0.37744033" />
+      <window_info anchor="bottom" id="Version Control" order="5" visible="true" weight="0.30368763" />
       <window_info anchor="bottom" id="Spring" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.15817985" />
@@ -881,20 +853,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/ShopcatController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-557">
-          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/OrderService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/OrderVO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -907,10 +865,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/ShopcatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/impl/OrderServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1531">
+        <state relative-caret-position="2990">
           <caret line="152" column="5" selection-start-line="152" selection-start-column="5" selection-end-line="152" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -923,15 +895,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/center/CenterUserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
+        <state relative-caret-position="2392">
           <caret line="134" column="11" selection-start-line="134" selection-start-column="11" selection-end-line="134" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/PassportController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="170" column="19" lean-forward="true" selection-start-line="170" selection-start-column="19" selection-end-line="170" selection-end-column="19" />
+        <state relative-caret-position="437">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
