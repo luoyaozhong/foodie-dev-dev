@@ -1,57 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a56f2f4-50fa-4bde-a2b2-a3de46b15cc3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/WarStarterApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/RedisController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/resources/application-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/resources/file-upload-prod.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/resources/profiles.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/OrdersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/OrdersController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/PassportController.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/PassportController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/ShopcatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/ShopcatController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/resources/file-upload-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/resources/file-upload-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/classes/META-INF/foodie-dev-api.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/classes/com/imooc/controller/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/classes/com/imooc/controller/IndexController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/classes/com/imooc/controller/OrdersController.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/classes/com/imooc/controller/OrdersController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/classes/com/imooc/controller/PassportController.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/classes/com/imooc/controller/PassportController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/classes/com/imooc/controller/ShopcatController.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/classes/com/imooc/controller/ShopcatController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/classes/file-upload-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/classes/file-upload-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/foodie-dev-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/foodie-dev-api-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/classes/META-INF/foodie-dev-common.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/classes/com/imooc/utils/JsonUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/classes/com/imooc/utils/JsonUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/foodie-dev-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/foodie-dev-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-mapper/target/classes/META-INF/foodie-dev-mapper.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-mapper/target/foodie-dev-mapper-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-mapper/target/foodie-dev-mapper-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-mapper/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-mapper/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/OrderVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/OrderVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/classes/META-INF/foodie-dev-pojo.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/classes/com/imooc/pojo/vo/OrderVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/classes/com/imooc/pojo/vo/OrderVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/foodie-dev-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/foodie-dev-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/src/main/java/com/imooc/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-service/target/classes/META-INF/foodie-dev-service.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/imooc/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/imooc/service/OrderService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/imooc/service/impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/target/classes/com/imooc/service/impl/OrderServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-service/target/foodie-dev-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/target/foodie-dev-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3a56f2f4-50fa-4bde-a2b2-a3de46b15cc3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/foodie-dev-common/target/" />
@@ -132,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/PassportController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="164" column="19" lean-forward="true" selection-start-line="164" selection-start-column="19" selection-end-line="164" selection-end-column="19" />
+            <state relative-caret-position="228">
+              <caret line="170" column="19" lean-forward="true" selection-start-line="170" selection-start-column="19" selection-end-line="170" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -337,59 +287,6 @@
               <item name="imooc" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="imooc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foodie-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodie-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="foodie-dev-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="imooc" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -573,7 +470,7 @@
       <workItem from="1587277184041" duration="23000" />
       <workItem from="1588746646190" duration="6727000" />
       <workItem from="1588903055544" duration="7842000" />
-      <workItem from="1589073448376" duration="5019000" />
+      <workItem from="1589073448376" duration="5313000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交项目">
       <created>1581068891321</created>
@@ -596,11 +493,18 @@
       <option name="project" value="LOCAL" />
       <updated>1581143324166</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="整合redis">
+      <created>1589079624350</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589079624350</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242166000" />
+    <option name="totallyTimeSpent" value="242460000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -620,7 +524,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.18443497" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.18443497" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
@@ -631,7 +535,7 @@
       <window_info anchor="bottom" id="Spring" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.15817985" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.6572668" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.6572668" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.25785482" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -655,7 +559,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交项目" />
     <MESSAGE value="加了空格&#10;加了一个测试类" />
-    <option name="LAST_COMMIT_MESSAGE" value="加了空格&#10;加了一个测试类" />
+    <MESSAGE value="整合redis" />
+    <option name="LAST_COMMIT_MESSAGE" value="整合redis" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1025,8 +930,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/PassportController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="164" column="19" lean-forward="true" selection-start-line="164" selection-start-column="19" selection-end-line="164" selection-end-column="19" />
+        <state relative-caret-position="228">
+          <caret line="170" column="19" lean-forward="true" selection-start-line="170" selection-start-column="19" selection-end-line="170" selection-end-column="19" />
         </state>
       </provider>
     </entry>
