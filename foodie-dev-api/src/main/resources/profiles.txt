@@ -15,6 +15,7 @@ profiles 多环境数据源配置梳理：
     http://api.z.mukewang.com/foodie-dev-api/orders/notifyMerchantOrderPaid
 
 
+----------发布服务器----------
 打包方式：
 1. jar
     服务化的概念，后续接触springcloud，所有的服务打包都是以jar的形式存在的。
@@ -49,3 +50,17 @@ public class WarStarterApplication extends SpringBootServletInitializer {
     }
 
 }
+
+
+
+----------本地跑项目----------
+<!-- 打包jar [1]-->
+ <packaging>jar</packaging>
+
+ <!-- 打包war [2] 不要移除自带内置tomcat -->
+ <!--<exclusions>
+     <exclusion>
+         <artifactId>spring-boot-starter-tomcat</artifactId>
+         <groupId>org.springframework.boot</groupId>
+     </exclusion>
+ </exclusions>-->
