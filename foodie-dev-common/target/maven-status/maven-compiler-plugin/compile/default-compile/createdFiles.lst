@@ -12,6 +12,7 @@ com\imooc\utils\JsonUtils.class
 com\imooc\utils\MD5Utils.class
 com\imooc\utils\PagedGridResult.class
 org\n3r\idworker\Test.class
+com\imooc\utils\TestUtil.class
 org\n3r\idworker\Sid$1.class
 org\n3r\idworker\utils\Props.class
 org\n3r\idworker\strategy\DefaultRandomCodeStrategy$1.class
@@ -37,4 +38,5 @@ org\n3r\idworker\InvalidSystemClock.class
 org\n3r\idworker\utils\Ip.class
 org\n3r\idworker\strategy\DefaultWorkerIdStrategy$2.class
 org\n3r\idworker\strategy\DefaultWorkerIdStrategy.class
+com\imooc\utils\IMOOCJSONResult.class
 com\imooc\enums\YesOrNo.class

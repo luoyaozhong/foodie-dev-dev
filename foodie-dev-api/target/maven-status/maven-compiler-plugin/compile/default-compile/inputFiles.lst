@@ -10,6 +10,8 @@ F:\ideaWorkerSpace\imooc\foodie-dev\foodie-dev-api\src\main\java\com\imooc\confi
 F:\ideaWorkerSpace\imooc\foodie-dev\foodie-dev-api\src\main\java\com\imooc\controller\BaseController.java
 F:\ideaWorkerSpace\imooc\foodie-dev\foodie-dev-api\src\main\java\com\imooc\controller\center\CenterController.java
 F:\ideaWorkerSpace\imooc\foodie-dev\foodie-dev-api\src\main\java\com\imooc\controller\center\MyOrdersController.java
+F:\ideaWorkerSpace\imooc\foodie-dev\foodie-dev-api\src\main\java\com\imooc\WarStarterApplication.java
+F:\ideaWorkerSpace\imooc\foodie-dev\foodie-dev-api\src\main\java\com\imooc\controller\RedisController.java
 F:\ideaWorkerSpace\imooc\foodie-dev\foodie-dev-api\src\main\java\com\imooc\controller\center\MyCommentsController.java
 F:\ideaWorkerSpace\imooc\foodie-dev\foodie-dev-api\src\main\java\com\imooc\Application.java
 F:\ideaWorkerSpace\imooc\foodie-dev\foodie-dev-api\src\main\java\com\imooc\config\OrderJob.java
