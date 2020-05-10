@@ -46,7 +46,6 @@ public class ShopcatController extends BaseController{
         // 需要判断当前购物车中包含已经存在的商品，如果存在则累加购买数量
         String shopcartJson = redisOperator.get(FOODIE_SHOPCART + ":" + userId);
         List<ShopcartBO> shopcartList = null;
-
         if (StringUtils.isNotBlank(shopcartJson)) {
             // redis中已经有购物车了
             shopcartList = JsonUtils.jsonToList(shopcartJson, ShopcartBO.class);
